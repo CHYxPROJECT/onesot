@@ -45,7 +45,7 @@ imgFrame.Parent = buttonFrame
 local bg = Instance.new("ImageLabel")
 bg.Size = UDim2.new(1, 0, 1, 0)
 bg.BackgroundTransparency = 1
-bg.Image = "rbxassetid://140472156085141"
+bg.Image = "rbxassetid://90159291895553"
 bg.Parent = imgFrame
 
 -- 🔹 Overlay verde al activar
